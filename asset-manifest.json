@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my5.2GP.git/static/css/main.f855e6bc.css",
-    "main.js": "/my5.2GP.git/static/js/main.82639725.js",
-    "static/js/453.22d6de12.chunk.js": "/my5.2GP.git/static/js/453.22d6de12.chunk.js",
-    "static/media/logo.svg": "/my5.2GP.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/my5.2GP.git/index.html",
-    "main.f855e6bc.css.map": "/my5.2GP.git/static/css/main.f855e6bc.css.map",
-    "main.82639725.js.map": "/my5.2GP.git/static/js/main.82639725.js.map",
-    "453.22d6de12.chunk.js.map": "/my5.2GP.git/static/js/453.22d6de12.chunk.js.map"
+    "main.css": "/my5.2gp/tree/gh-pages/static/css/main.f855e6bc.css",
+    "main.js": "/my5.2gp/tree/gh-pages/static/js/main.c77289a4.js",
+    "static/js/453.22d6de12.chunk.js": "/my5.2gp/tree/gh-pages/static/js/453.22d6de12.chunk.js",
+    "static/media/logo.svg": "/my5.2gp/tree/gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my5.2gp/tree/gh-pages/index.html",
+    "main.f855e6bc.css.map": "/my5.2gp/tree/gh-pages/static/css/main.f855e6bc.css.map",
+    "main.c77289a4.js.map": "/my5.2gp/tree/gh-pages/static/js/main.c77289a4.js.map",
+    "453.22d6de12.chunk.js.map": "/my5.2gp/tree/gh-pages/static/js/453.22d6de12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.82639725.js"
+    "static/js/main.c77289a4.js"
   ]
 }
